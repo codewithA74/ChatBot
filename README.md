@@ -1,4 +1,5 @@
 # AI Terminal Chatbot
+<<<<<<< HEAD
 An AI chatbot built with Python and Ollama using the Mistral model.
 
 ## Features
@@ -25,3 +26,17 @@ An AI chatbot built with Python and Ollama using the Mistral model.
 ## Example
 Question: What is Python?
 Answer: Python is a high-level programming language used for web development, AI, automation, and more.
+=======
+
+This is an AI chatbot built using:
+
+- Python
+- Ollama
+- Mistral Model
+
+Features:
+- Runs locally
+- No API key required
+- Fast AI responses
+- Terminal based chatbot
+>>>>>>> 8705e58e00b1bf4f43c7164935531e23a2eb244c
